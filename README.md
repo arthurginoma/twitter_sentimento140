@@ -40,6 +40,11 @@ The library contains various tools for performing common tasks in text processin
 lemmatization, part-of-speech tagging, syntactic analysis, semantic analysis, among others.
  It is widely used in research and natural language processing applications and 
 is one of the most popular libraries for working with natural language in Python.
+
+▫️ Work with word tokezination -  is a common preprocessing step because many algorithms and techniques 
+rely on the input being represented as a sequence of tokens. The goal of word tokenization is to accurately
+separate words and handle any punctuation, spaces, or special characters that may be present in the text.
+
 ```
 
 <br>
