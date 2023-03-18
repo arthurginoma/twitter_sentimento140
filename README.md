@@ -24,6 +24,8 @@ Importante facts about accessibility and public places
 ▫️ The dataset Sentiment140 can be found in 
 [Kegle] (https://www.kaggle.com/datasets/kazanova/sentiment140)
 
+The original documentation about Sentiment140 can be found here 
+http://help.sentiment140.com/
 
 ```
 
