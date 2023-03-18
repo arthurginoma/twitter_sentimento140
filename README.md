@@ -21,7 +21,9 @@ Importante facts about accessibility and public places
 
 ```
 
-▫️ The dataset Sentiment140 can be found in [Kegle] (https://www.kaggle.com/datasets/kazanova/sentiment140) ▫️ [API Google Places | Developer Guide](https://developers.google.com/maps/documentation/places/web-service/search-text?hl=pt-br%22)
+▫️ The dataset Sentiment140 can be found in 
+[Kegle] (https://www.kaggle.com/datasets/kazanova/sentiment140)
+
 
 ```
 
@@ -31,15 +33,11 @@ Importante facts about accessibility and public places
 
 ```
 
-▫️ Understand and explore the API of GoogleMaps Places, having as parameters: 
-  - city of São Paulo, Brasil;
-  - wheelchair accessibility;
-  - tourist sights and restaurants;
-
-▫️ Python as a data analysis language for creative insights
-
-▫️ Communicate the analysis results clearly, accurately, and engagingly (Tableau)
-
+▫️ Work with NLTK (Natural Language Toolkit) is a Python library used for natural language processing. 
+The library contains various tools for performing common tasks in text processing, such as tokenization, 
+lemmatization, part-of-speech tagging, syntactic analysis, semantic analysis, among others.
+ It is widely used in research and natural language processing applications and 
+is one of the most popular libraries for working with natural language in Python.
 ```
 
 <br>
@@ -49,15 +47,13 @@ Importante facts about accessibility and public places
 ## Deliverable files in this repository
 
 * Cleaned final dataset (./assets):
-   - `tabela_final_rest.csv`
-   - `tabela_final_tourist.csv`
-   - `tabela_final_merged.csv`
+   - `planilhafinal.csv`
+   - `palavras.csv`
+
 
 * Data analysis in Jupyter Notebook:
-   - `API ANALISE.ipynb`
+   - `twitte_analysis.ipynb`
  
-* Formal presentation – Storytelling with data:
-   - done with `Tableau` [check it here](https://public.tableau.com/views/SoPauloparaTodos_01/Painel1?:language=pt-BR&:display_count=n&:origin=viz_share_link)
 
 <br>
 
@@ -68,17 +64,13 @@ Importante facts about accessibility and public places
    - Python @ Jupyter Notebook
    - Pandas / Numpy
    - API
-   - Tableau
+   - NKLT 
 
 <br>
 
 <a name="dataset"></a>
 
-## Dataset
 
-▫️ [API Google Places | Developer Guide](https://developers.google.com/maps/documentation/places/web-service/search-text?hl=pt-br%22)
-
-▫️ [Brazilian accessibility rules](https://www.caurn.gov.br/wp-content/uploads/2020/08/ABNT-NBR-9050-15-Acessibilidade-emenda-1_-03-08-2020.pdf)
 
 
 
