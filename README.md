@@ -1,15 +1,8 @@
 # twitter_sentimento140
-a small study about the famous dataset sentiment140
+a small study about the famous dataset sentiment140 | *Data Analytics Bootcamp* – Project 3
 
-# Places-with-accessibility-for-wheelchair-users
-This project had the main goal to explore GoogleMaps API Places | *Data Analytics Bootcamp* – Project 2
+<img src="https://t2.tudocdn.net/376633?w=1200&h=1200" width="750">
 
-<img src="https://miro.medium.com/max/1400/1*BpjHHwArjwrlDFiq_i0HzA.jpeg" width="750">
-
-
-> ⏰ <i>Quick Preview?</i>
->
-> 👉 [Click here to check my presentation](https://public.tableau.com/views/SoPauloparaTodos_01/Painel1?:language=pt-BR&:display_count=n&:origin=viz_share_link), in Tableau 
 
 <br>
 
@@ -28,13 +21,7 @@ Importante facts about accessibility and public places
 
 ```
 
-▫️ In Brazil, it is mandatory that all public and semi-public spaces offer accessibility for people with reduced accessibility.
-
-▫️ The law requires universal accessibility, therefore it is demanding that all spaces in the building be accessible, not only a part of it.
-
-▫️ This project had as its premise the understanding of accessibility rules provided by the Brazilian standard NBR9050
-
-▫️ This project had as its premise the understanding of accessibility rules provided by the Brazilian standard NBR9050
+▫️ The dataset Sentiment140 can be found in [Kegle] (https://www.kaggle.com/datasets/kazanova/sentiment140) ▫️ [API Google Places | Developer Guide](https://developers.google.com/maps/documentation/places/web-service/search-text?hl=pt-br%22)
 
 ```
 
